@@ -1,8 +1,24 @@
 {
-  "name": "@test/components",
+  "name": "@aos/components",
   "version": "1.0.0",
+  "description": "通用 Vue 2 组件库",
   "main": "src/index.js",
+  "keywords": ["vue", "components", "aos", "ui"],
+  "author": "liq",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:liqian1992/vue-workspace-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liqian1992/vue-workspace-demo.git/issues"
+  },
+  "homepage": "https://github.com/liqian1992/vue-workspace-demo.git#readme",
   "peerDependencies": {
     "vue": "^2.6.14"
-  }
+  },
+  "files": [
+    "src",
+    "README.md"
+  ]
 }
