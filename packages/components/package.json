@@ -1,0 +1,8 @@
+{
+  "name": "@test/components",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "vue": "^2.6.14"
+  }
+}
