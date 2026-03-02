@@ -1,5 +1,5 @@
 {
-  "name": "@test/operation-scene",
+  "name": "@dbliqian/operation-scene",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "@test/components": "file:../test-components",
+    "@dbliqian/components": "file:../dbliqian-components",
     "vue": "^2.6.14"
   },
   "devDependencies": {

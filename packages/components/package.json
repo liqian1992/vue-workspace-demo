@@ -1,5 +1,5 @@
 {
-  "name": "@test/components",
+  "name": "@dbliqian/components",
   "version": "1.0.0",
   "description": "通用 Vue 2 组件库",
   "main": "src/index.js",
